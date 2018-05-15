@@ -1,0 +1,15 @@
+{
+  "name": "gpxtools",
+  "version": "1.0.0",
+  "description": "Convert GPX data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gdal": "^0.9.6",
+    "xml2js": "^0.4.19"
+  }
+}
