@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="gpxtools.js" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <link href="https://cmack.org/">
+      <text>Charlie Mack</text>
+    </link>
+    <time>2018-05-17T21:46:21.850Z</time>
+  </metadata>
+  <wpt lat="34.68068998" lon="-120.44361697">
+    <ele>90.8226</ele>
+    <name>001</name>
+    <cmt>WAYPOINT</cmt>
+    <desc>WAYPOINT</desc>
+  </wpt>
+  <wpt lat="34.68069401" lon="-120.44362703">
+    <ele>88.4656</ele>
+    <name>002</name>
+    <cmt>WAYPOINT</cmt>
+    <desc>WAYPOINT</desc>
+  </wpt>
+</gpx>

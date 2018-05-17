@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "gdal": "^0.9.6",
-    "xml2js": "^0.4.19"
+    "xml2js": "^0.4.19",
+    "xmlbuilder": "^10.0.0"
   }
 }
